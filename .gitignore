@@ -1,4 +1,8 @@
+# 仮想環境と環境ファイル
 .env
 venv/
 __pycache__/
+*.pyc
 
+# macOS ごみファイル
+.DS_Store
